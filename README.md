@@ -1,0 +1,2 @@
+# hummingbot-mexc-custom
+Hummingbotmexc
